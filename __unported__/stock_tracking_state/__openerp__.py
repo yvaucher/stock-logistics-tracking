@@ -31,6 +31,7 @@ This module will add the state field to make changes of closed packed
 
 """,
     "website" : "http://www.julius.fr",
+    "license": "AGPL-3",
     "depends" : [
         "stock",
         "stock_tracking_extended",

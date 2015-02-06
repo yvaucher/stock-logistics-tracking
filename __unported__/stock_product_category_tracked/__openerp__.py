@@ -31,6 +31,7 @@ This module adds a field into the product category to define if this should be t
 
 """,
     "website" : "http://www.julius.fr",
+    "license": "AGPL-3",
     "depends" : [
         "stock",
     ],

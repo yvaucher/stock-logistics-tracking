@@ -31,6 +31,7 @@ This module allows to define and identify package in parent or child
 
 """,
     "website" : "http://www.julius.fr",
+    "license": "AGPL-3",
     "depends" : [
         "stock",
     ],

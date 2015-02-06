@@ -31,6 +31,7 @@ Adding to the historical movements and parent objects
 
 """,
     "website" : "http://www.julius.fr",
+    "license": "AGPL-3",
     "depends" : [
          "stock_tracking_extended",
          "stock_tracking_child",

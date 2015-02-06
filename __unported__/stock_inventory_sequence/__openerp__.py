@@ -31,6 +31,7 @@ This module adds a sequence for generating automatically inventories name
 
 """,
     "website" : "http://www.julius.fr",
+    "license": "AGPL-3",
     "depends" : [
         "stock",
     ],

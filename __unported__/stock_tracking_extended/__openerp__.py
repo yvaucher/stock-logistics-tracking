@@ -31,6 +31,7 @@ This module adds some info into packs to get a better tracking of products and s
 
 """,
     "website" : "http://www.julius.fr",
+    "license": "AGPL-3",
     "depends" : [
         "stock",
     ],

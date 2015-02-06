@@ -31,6 +31,7 @@ This module adds the packaging into the production lot
 
 """,
     "website" : "http://www.julius.fr",
+    "license": "AGPL-3",
     "depends" : [
         "stock",
     ],

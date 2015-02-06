@@ -32,6 +32,7 @@ and adds fields for source location and destination location in History.
 
 """,
     "website" : "http://www.julius.fr",
+    "license": "AGPL-3",
     "depends" : [
         "stock",
         "stock_tracking_extended",
